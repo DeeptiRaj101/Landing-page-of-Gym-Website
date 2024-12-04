@@ -1,4 +1,4 @@
-# Landing-page-of-Gym-Website
+# Fit Life Gym Landing Page
 
 * FitLife Gym Landing Page
 The FitLife Gym landing page is designed to attract potential gym members by showcasing the gym's unique features, flexible pricing plans, and a special limited-time offer. The page combines a modern design with intuitive navigation, ensuring a seamless user experience.
